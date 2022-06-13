@@ -1,5 +1,5 @@
-## デジタルツインの社会実装に向けたロードマップ 初版 
-2022年3月　東京都 
+## Roadmap for the Social Implementation of Digital Twin First Edition 
+2022.3　Tokyo Metropolitan Government
 
  ### 目次
  0. [Introduction](#anchor0)
