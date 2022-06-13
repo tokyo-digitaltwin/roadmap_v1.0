@@ -73,7 +73,7 @@ As shown in Figure 1-1, a digital twin is a cyberspace (virtual space on a compu
 Based on real-time data obtained from activities in various fields in physical space (real space), advanced analysis and simulation are performed in cyber space (virtual space), and the results are fed back to physical space in a high-speed and interactive manner. Utilization of the digital twin refers to the state in which this continuous loop is realized.
 
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-1%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-1.png?raw=true" width="60%">
 
 **Figure 1-1 What is Digital Twin?**
 
@@ -86,7 +86,7 @@ Based on real-time data obtained from activities in various fields in physical s
 
 As shown in Figure 1-2, China and India are projected to rank first and third in world GDP by 2030, with both countries' global share rising from 22% to 34%. Japan, on the other hand, is expected to fall from its current third place to fourth, and its presence in the world is declining. 
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-2%20%E5%AE%9F%E8%B3%AAGDP%E3%81%AE%E5%9B%BD%E5%88%A5%E3%82%B7%E3%82%A7%E3%82%A2%EF%BC%882010%E5%B9%B4%EF%BC%8F2030%E5%B9%B4%EF%BC%89.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-2.png?raw=true" width="60%">
 (Source) Based on OECD, Economic Outlook No,95 (2014)<br>
 
 **Figure 1-2　Real GDP Share by Country（2010/2030）**  <p>
@@ -94,7 +94,7 @@ As shown in Figure 1-2, China and India are projected to rank first and third in
 
 In particular, in the field of digitalization where competition is thriving in many countries, Japan is ranked 27th overall in IMD's "Global Digital Competitiveness Ranking" (Figure 1-3), hardly a world leader.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-3%20%E4%B8%96%E7%95%8C%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%AB%B6%E4%BA%89%E5%8A%9B%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0.png?raw=true" width="30%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-3.png?raw=true" width="30%">
 (Source) Based on IMD, World Digital Competitiveness Ranking<br>
 
 **Figure 1-3　Global Digital Competitiveness Ranking**  <p>
@@ -105,7 +105,7 @@ Regarding the population that supports the economy shown in Figure 1-4, the prop
 
 The composition of Tokyo's population is expected to change drastically by 2060, with the juvenile population and working-age population decrease by approximately 30% and 20% compared to 2015.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%AE%E5%B9%B4%E9%BD%A2%E9%9A%8E%E7%B4%9A%E5%88%A5%E4%BA%BA%E5%8F%A3.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-4.png?raw=true" width="60%">
 <span style="font-size: 50%; color;">Source）Compiled from "Tokyo Metropolitan Government Daytime Population Projections (March 2020)" (Bureau of General Affairs, Tokyo Metropolitan Government), "National Census" (Ministry of Internal Affairs and Communications), etc.</span><br>
 <span style="font-size: 50%; color;">（Remarks）1．The values after 2045 are estimated by Office of the Governor for Policy Planning, Tokyo Metropolitan Government</span><br>
 <span style="font-size: 50%; color;">2．The value in parentheses in the breakdown is the percentage of the population.（The percentage in 2015 is calculated by dividing the unknown age into each age group.）</span><br>
@@ -118,21 +118,21 @@ The composition of Tokyo's population is expected to change drastically by 2060,
 
 Regarding natural disasters, as shown in Figure 1-5, the entire world is in a critical situation with rising temperatures, decreasing sea ice extent, rising sea surface temperatures and sea levels, and tropical cyclones becoming stronger. The threat of more frequent, and more severe damage caused by heavy rainfall disasters, river flooding, landslides, or frequent storm surges is increasing.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-5%20%E6%BF%80%E7%94%9A%E5%8C%96%E3%81%99%E3%82%8B%E7%81%BD%E5%AE%B3%E3%81%AE%E4%BE%8B.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-5.png?raw=true" width="60%">
 （Source）The “Future Tokyo” Strategy Vision (Summary Version) (December 2019)<br>
 
 **Figure 1-5　Examples of increasingly severe disasters**<p>
 
 Furthermore, as displayed in Figures 1-6 and 1-7, the risk of earthquakes such as the one directly under the Tokyo metropolitan area which is assumed to have a 70% probability of occurring in the next 30 years, and the Nankai Trough giant earthquake is also increasing.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-6%20%E9%A6%96%E9%83%BD%E7%9B%B4%E4%B8%8B%E5%9C%B0%E9%9C%87%E7%AD%89%E3%81%AB%E3%82%88%E3%82%8B%E6%9D%B1%E4%BA%AC%E3%81%AE%E8%A2%AB%E5%AE%B3%E6%83%B3%E5%AE%9A.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-6.png?raw=true" width="60%">
 （Source）Estimated damage to Tokyo due to an earthquake directly under the Tokyo metropolitan area (April 2012 Publication） <br>
 https://www.bousai.metro.tokyo.lg.jp/taisaku/torikumi/1000902/1000401.html<br>
 
 **Figure 1-6　Estimated damage to Tokyo due to an earthquake directly under the Tokyo metropolitan area**<p>
 
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-7%20%E5%8D%97%E6%B5%B7%E3%83%88%E3%83%A9%E3%83%95%E5%B7%A8%E5%A4%A7%E5%9C%B0%E9%9C%87%E7%AD%89%E3%81%AB%E3%82%88%E3%82%8B%E5%B3%B6%E3%81%97%E3%82%87%E3%81%AE%E8%A2%AB%E5%AE%B3%E6%83%B3%E5%AE%9A.png?raw=true" width="60%"><br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-7.png?raw=true" width="60%"><br>
 （Source）Estimated damage to the islands due to Nankai Trough Earthquake, etc.(May 2013 Publication）<br>
 https://www.bousai.metro.tokyo.lg.jp/taisaku/torikumi/1000902/1000402.html<br>
 **Figure 1-7　Estimated damage to the islands due to Nankai Trough Earthquake**<p>
@@ -143,25 +143,25 @@ https://www.bousai.metro.tokyo.lg.jp/taisaku/torikumi/1000902/1000402.html<br>
 Figure 1-8 clearly shows the number of air passengers worldwide is expected to nearly double to 7.8 billion by 2036, and if we do not meet the strong demand for international business jets and other services, we will fall behind the world.
 
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-8%20%E4%B8%BB%E3%81%AA%E5%9B%BD%E3%81%AE%E8%88%AA%E7%A9%BA%E6%97%85%E5%AE%A2%E6%95%B0%E3%81%AE%E5%B0%86%E6%9D%A5%E6%8E%A8%E8%A8%88.png?raw=true" width="60%"><br>
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-8.png?raw=true" width="60%"><br>
  （Source）Based on “Vision for ‘Future Tokyo’ Strategy” (December 2019）<br>
 **Figure 1-8　Estimated future air passenger traffic in major countries**
 
 
 Figure 1-9 also points out that because the EC market is expected to expand further, if the infrastructure for new means of transportation such as drone delivery is delayed, we will be left behind the world.
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-9%20%E6%97%A5%E6%9C%AC%E3%81%AEBtoC-EC%EF%BC%88%E9%9B%BB%E5%AD%90%E5%95%86%E5%8F%96%E5%BC%95%EF%BC%89%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%8E%A8%E7%A7%BB.png?raw=true" width="60%"> 
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-9.png?raw=true" width="60%"> 
 （Source）Ministry of Economy, Trade and Industry, "FY2019 International Economic Research Project for Building an Integrated Domestic and Foreign Economic Growth Strategy (Market Survey on Electronic Commerce) Report
 https://www.meti.go.jp/press/2020/07/20200722003/20200722003.html
 
-**図1-9　B to C-EC (electronic commerce) market size in Japan**<p>
+**Figure1-9　B to C-EC (electronic commerce) market size in Japan**<p>
 
 
 ****▼Pursuing a "new life" with the experience gained through the COVID-19 Disaster.****
 
 The voluntary restraint on going out due to the Corona disaster restricted conventional real-life "connections." While the younger generation has still kept interacting online, many people reaffirmed the importance of "connections" between the people. It is necessary to utilize the experience gained from the Corona Disaster to weave "new connections" through a hybrid of the real and virtual, and create a society in which a new everyday life has taken root.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-10%20%E3%80%8E%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%80%8F%E6%88%A6%E7%95%A5%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%80%8C%E6%96%B0%E3%81%97%E3%81%84%E6%9A%AE%E3%82%89%E3%81%97%E3%80%8D%E3%81%AE%E8%BF%BD%E6%B1%82.png?raw=true" width="60%">  <br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-10.png?raw=true" width="60%">  <br>
 （Source）Based on “Future Tokyo” Strategy (March 2021)<br>
 **Figure 1-10　Pursuing “New Lifestyles” in the “Future Tokyo” Strategy**<p>
   
@@ -169,7 +169,7 @@ The voluntary restraint on going out due to the Corona disaster restricted conve
 
 In recovering from the crisis of the Corona disaster, it is necessary not simply to return to the society that existed before the Corona disaster, but to upgrade policies from the perspective of "sustainable recovery" which extends to the realization of sustainable lifestyles for people. Creation of a strong and sustainable society that creates new values while flexibly responding to changing circumstances is also required for this purpose.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-11%20%E3%80%8C%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BB%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%E3%80%8D%E3%81%AE%E5%AE%9F%E7%8F%BE.png?raw=true" width="60%">  <br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-11.png?raw=true" width="60%">  <br>
 （Source）Based on “Future Tokyo” Strategy (March 2021)<br>
 **Figure 1-11　Realize “Sustainable Recovery**
 
@@ -178,7 +178,7 @@ In recovering from the crisis of the Corona disaster, it is necessary not simply
 
 People of various backgrounds including gender, age, nationality, and race are living in Tokyo. New human rights issues are emerging against a backdrop of diversifying values and increasingly complex social structures. Tokyo, aiming to become a truly diverse city, must be attentive to these diverse values.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-12%20%E5%A4%9A%E6%A7%98%E3%81%AA%E9%83%BD%E6%B0%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%81%B8%E3%81%AE%E5%AF%BE%E5%BF%9C%EF%BC%88%E7%9B%AE%E5%BA%A7%E3%81%992040%E5%B9%B4%E4%BB%A3%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%A7%BF%EF%BC%89.png?raw=true" width="60%">  <br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-12.png?raw=true" width="60%">  <br>
 （Source）Based on “Future Tokyo” Strategy (March 2021)<br>
 **Figure 1-12　Responding to the diverse needs of Tokyo residents (The Tokyo of the 2040s as we aspire to be)**
 
@@ -187,7 +187,7 @@ People of various backgrounds including gender, age, nationality, and race are l
 
 The Tokyo Metropolitan Government will strongly promote DX in all fields to pioneer the "Tokyo of the Future." In order to realize this goal, it will require a major transformation of the industrial structure in a positive and digital way including changes in new services and business categories with an eye to the transformation of people's lifestyles, due to the Corona Disaster.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-13%20%E3%80%8C%E7%88%86%E9%80%9F%E3%80%8D%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E3%81%A8%E6%A7%8B%E9%80%A0%E6%94%B9%E9%9D%A9.png?raw=true" width="60%">  <br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-13.png?raw=true" width="60%">  <br>
 （Source）Based on “Future Tokyo” Strategy (March 2021)<br>
 **Figure 1-13　Digitalization and structural reforms**
 
@@ -205,7 +205,7 @@ In Singapore, the Singapore Land Authority (SLA) has established One map 3D, a p
 
 In order for Tokyo to compete with other international cities, it is necessary not only to keep up with overseas efforts, but also to take the initiative in implementing new initiatives ahead of other countries.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-14%20%E6%B5%B7%E5%A4%96%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%97%E3%81%9F%E5%85%88%E9%80%B2%E7%9A%84%E3%81%AA%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF.png?raw=true" width="60%">  <br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-14.png?raw=true" width="60%">  <br>
 （Source）Victoria State Government HP（ https://www.land.vic.gov.au/maps-and-spatial/maps-and-spatial-news/3d-buildings-data-of-major-victorian-regional-centres-now-available ）<br>
 （Source）Kalasatama Digital Twin（ https://www.hel.fi/static/liitteet-2019/Kaupunginkanslia/Helsinki3D_Kalasatama_Digital_Twins.pdf ）<br>
 （Source）Case Study: National Underground Asset Register (NUAR) Pilot Programme」（ https://www.cdbb.cam.ac.uk/news/case-study-NUAR-pilot-programme ）<br>
@@ -220,7 +220,7 @@ In advanced municipalities (e.g. Shizuoka Prefecture), the sprouting of initiati
 
 Tokyo, as Japanese gateway, will be able to powerfully drive the Japanese economy by improving its attractiveness through digitalization and by winning the international inter-city competition.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-15%20%E4%B8%96%E7%95%8C%E4%B8%80%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AA%E6%9D%B1%E4%BA%AC%EF%BC%88%E7%9B%AE%E6%8C%87%E3%81%992040%E5%B9%B4%E4%BB%A3%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%A7%BF%EF%BC%89.png?raw=true" width="60%">  <br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-15.png?raw=true" width="60%">  <br>
 （Source）Based on “Future Tokyo” Strategy (March 2021)<br>
 **Figure 1-15　Tokyo will be the world’s most open city (The Tokyo of the 2040s as we aspire to be**
 
@@ -236,7 +236,7 @@ Based on the internal and external environment surrounding TMG, the following fo
 
 ④Potential to get a competitive advantage in international urban competition
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%201-16%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%8C%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E6%84%8F%E7%BE%A9.png?raw=true" width="60%">  
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%201-16.png?raw=true" width="60%">  
   
 **Figure 1-16　Significance of Tokyo’s Digital Twin Initiative**
 
@@ -279,7 +279,7 @@ Third, by feeding back the results of visualization, analysis, and simulation to
 Through the realization of such a digital twin, we aim to improve the QOS of the Tokyo Metropolitan Government, as well as improve the quality of life of Tokyo residents, and utilize this information in decision-making, policy-making, and other situations.
 
   
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%202-1%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E6%8F%90%E4%BE%9B%E4%BE%A1%E5%80%A4.png?raw=true" width="60%">  
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%202-1.png?raw=true" width="60%">  
 
  **Figure 2-1　Values of Digital Twin**
 
@@ -293,7 +293,7 @@ In aiming to realize the Digital Twin based on the "Smart Tokyo Implementation S
 
 In setting the focus areas, we used the nine study areas in the "Smart Tokyo Implementation Strategy," which is a high-level plan, as a base, and compared them to the study areas, services, and fields in related plans.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%202-2%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E8%B1%A1%E5%88%86%E9%87%8E%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9.png?raw=true" width="60%">  
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%202-2.png?raw=true" width="60%">  
  
 **Figure 2-2　Digital Twin Target Areas and Services**<p>
 
@@ -320,7 +320,7 @@ Figure 3-1 shows the elements required to realize the digital twin. The digital 
 
 　The structure of the digital twin was examined by Government of Japan, by referring to the "Smart City Reference Architecture White Paper," which is a result of the "Strategic Innovation Program (SIP) Phase 2: Cyberspace Infrastructure Technology Architecture Development and Demonstration Research Project Using Big Data and AI" by the Cabinet Office.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%203-1%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%A8%E4%BD%93%E5%83%8F.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%203-1.png?raw=true" width="60%">
 
  **Figure 3-1　Overall Picture of Digital Twin**
 
@@ -334,7 +334,7 @@ We have decomposed and defined the basic elements of the digital twin into three
 
  **Table 3-1 Components of Digital Twin**
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-1%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E6%A7%8B%E6%88%90%E8%A6%81%E7%B4%A0.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-1.png?raw=true" width="60%">
 
 <a  id="anchor3.3"></a>
 <a  href="#anchor3.3"></a>
@@ -346,11 +346,11 @@ Cyberspace shall consist of "data" and "systems". The data consists of "data" us
 
  **Table 3-2 Components of Cyberspace**
  
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-2%20%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E7%A9%BA%E9%96%93%E3%81%AE%E6%A7%8B%E6%88%90%E8%A6%81%E7%B4%A0.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-2.png?raw=true" width="60%">
 
  **Table 3-3 Example of data**
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-3%20%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E4%BE%8B.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-3.png?raw=true" width="60%">
  
 <a  id="anchor3.4"></a>
 <a  href="#anchor3.4"></a>
@@ -362,7 +362,7 @@ The infrastructure that constitutes the physical space consists of "sensing devi
 
  **Table 3-4 フComponents of Physical Space**
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-4%20%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%AB%E7%A9%BA%E9%96%93%E3%81%AE%E6%A7%8B%E6%88%90%E8%A6%81%E7%B4%A0.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-4.png?raw=true" width="60%">
 
 <a  id="anchor3.5"></a>
 <a  href="#anchor3.5"></a>
@@ -374,7 +374,7 @@ Security refers to the functions and matters needed to protect the digital twin 
 
  **Table 3-5 Security Requirements**
  
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-5%20%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E8%A6%81%E4%BB%B6.png?raw=true" width="60%"> 
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-5.png?raw=true" width="60%"> 
 
 <a  id="anchor3.6"></a>
 <a  href="#anchor3.6"></a>
@@ -386,7 +386,7 @@ In realizing the digital twin, it is also necessary to consider three elements: 
 
  **Table 3-6 Other Factors**
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-6%20%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E8%A6%81%E7%B4%A0.png?raw=true" width="60%"> 
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-6.png?raw=true" width="60%"> 
 
 ****▼Digital twin scales are categorized as Building, Area, and City.****
 
@@ -394,21 +394,21 @@ As shown in Table 3-7, digital twins can be classified into three scales: "build
 
  **Table 3-7 Digital Twin Scale**
  
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-7%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB.png?raw=true" width="60%"> 
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-7.png?raw=true" width="60%"> 
 
 About the urban digital twin developed and operated by the Tokyo Metropolitan Government, Figure 3-2 shows an operational model, Table 3-8 shows examples of each entity in the operational model, and Table 3-9 shows examples of the roles of each entity. The digital twin shall be operated by data providers, operators, agency users, and service providers and users mutually linking their data. In addition to this, an external evaluation should be conducted by advisors and evaluators to assess whether the digital twin is operating appropriately.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%203-2%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E9%81%8B%E7%94%A8%E3%83%A2%E3%83%87%E3%83%AB.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%203-2.png?raw=true" width="60%">
 
  **Figure 3-2 Operational model of Digital Twin**
 
  **Table 3-8 Entities of Digital Twin (Example)**
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-8%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E4%B8%BB%E4%BD%93%EF%BC%88%E4%BE%8B%EF%BC%89.png?raw=true" width="60%"> 
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-8.png?raw=true" width="60%"> 
 
  **Table 3-9 Roles of entities (Example)**
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-9%20%E5%90%84%E4%B8%BB%E4%BD%93%E3%81%AE%E5%BD%B9%E5%89%B2%EF%BC%88%E4%BE%8B%EF%BC%89.png?raw=true" width="60%"> 
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-9.png?raw=true" width="60%"> 
 
 ****▼Examples of items to consider regarding rules and specifications were defined.****
 
@@ -416,7 +416,7 @@ In developing and operating a digital twin and providing various measures and se
 
  **Table 3-10 Items to consider for digital twin rules and specifications (Example)**
  
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%203-10%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB%E3%83%BB%E4%BB%95%E6%A7%98%E3%81%AE%E6%A4%9C%E8%A8%8E%E4%BA%8B%E9%A0%85%EF%BC%88%E4%BE%8B%EF%BC%89.png?raw=true" width="60%"> 
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%203-10.png?raw=true" width="60%"> 
 
 <a  id="anchor4"></a>
 <a  href="#anchor4"></a>
@@ -430,7 +430,7 @@ In developing and operating a digital twin and providing various measures and se
 
 As indicated in Section 2.2, the goal is to realize the digital twin by 2030 and to develop it into a continuous improvement cycle by 2040. As shown in Figure 4-1, the following three phases will be set up for the realization of the digital twin: "Establishment of digital twin infrastructure" phase (Phase 1) starting in FY2020, "Expansion of digital twin operation and use" phase (Phase 2) starting in FY2023, and "Full realization and advancement of the digital twin" phase (Phase 3) starting in FY2030. Phase 3 is the "realization and advancement of a complete digital twin" phase, which will begin in FY2030 and thereafter. This roadmap focuses on implementation items for Phase 1, which is the scope for the time being.
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%204-1%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%95%E3%82%A7%E3%83%BC%E3%82%BA.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%204-1.png?raw=true" width="60%">
 
 **Figure 4-1 Three phases to realizes Digital Twin**
 
@@ -444,7 +444,7 @@ In Phase 3, the systems, infrastructure, specifications and rules necessary to h
 
 The strategies required in each phase shall be examined and updated, reflecting the opinions of experts at the study group. Figure 4-2 shows the steps toward the realization of the digital twin. The items to be implemented in each phase shall be reviewed and updated whenever there is a decision or change in the policy.
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%204-2%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%204-2.png?raw=true" width="60%">
  
 **Figure 4-2 Steps to realize Digital Twin**
 
@@ -456,7 +456,7 @@ The strategies required in each phase shall be examined and updated, reflecting 
 
 Since the Digital Twin is operated by linking data from each entity to each other, a secure environment is required to consolidate data from both inside and outside the Agency and to provide services that utilize such data. Therefore, a "digital twin infrastructure" consisting of an "Agency Data Store" that aggregates and stores data from both internal and external entities, a "Data Catalog" and "Interface" for referencing and using each data, and a "Viewer" for visualizing the data, should be constructed. The positioning of the digital twin infrastructure in the data flow is shown below (Figure 4-3). The digital twin infrastructure will be used as a nodal point to link each type of data.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%204-3%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%83%95%E3%83%AD%E3%83%BC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E5%9F%BA%E7%9B%A4%E3%81%AE%E4%BD%8D%E7%BD%AE%E3%81%A5%E3%81%91.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%204-3.png?raw=true" width="60%">
  
 **Figure 4-3 Position of the digital twin platform in the data flow**
 
@@ -464,13 +464,13 @@ Data, systems, and infrastructure need to be developed in accordance with the se
 
 As for the data, the Agency has begun consolidating its data and releasing it to viewers outside the Agency from FY2021(Table 4-1).
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%204-4%20%E6%95%B4%E5%82%99%E5%8C%BA%E5%88%86%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%204-4.png?raw=true" width="60%">
  
 **Figure 4-4 Image of Development Category**
 
  **Table 4-1 Examples of Internal Data being aggregated and provided**
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%204-1%20%E9%9B%86%E7%B4%84%E3%83%BB%E6%8F%90%E4%BE%9B%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%BA%81%E5%86%85%E3%83%87%E3%83%BC%E3%82%BF%E4%BE%8B.png?raw=true" width="60%"> 
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%204-1.png?raw=true" width="60%"> 
  
 <a  id="anchor4.3"></a>
 <a  href="#anchor4.3"></a>
@@ -485,7 +485,7 @@ In the future, the Tokyo Metropolitan Government will consider its response to t
   
 **Table 4-2 Examples of Tokyo Metropolitan Government's implementation matters regarding legal system**
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%204-2%20%E6%B3%95%E5%88%B6%E5%BA%A6%E9%9D%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%AE%E5%AE%9F%E6%96%BD%E4%BA%8B%E9%A0%85%E3%81%AE.png?raw=true" width="60%"> 
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%204-2.png?raw=true" width="60%"> 
 
 ****▼Organizing rules and guidelines for Digital Twin operation and internal data provision on a priority basis.****
 
@@ -497,7 +497,7 @@ Regarding internal data, we have to consider data maintenance, data provision, a
 
  **Table 4-3 Examples of implementations related to terms and guidelines**
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%204-3%20%E8%A6%8F%E7%B4%84%E3%83%BB%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AE%9F%E6%96%BD%E4%BA%8B%E9%A0%85%E3%81%AE%E4%BE%8B.png?raw=true" width="60%"> 
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%204-3.png?raw=true" width="60%"> 
  
 The license of open data defines the conditions under which it can be used, modified, redistributed, sold, and so on.
 
@@ -513,11 +513,11 @@ On the operation of the digital twin, it is important for each entity to coordin
 
  **Table 4-4 Examples of implementation related to standard specification**
  
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%204-4%20%E6%A8%99%E6%BA%96%E4%BB%95%E6%A7%98%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AE%9F%E6%96%BD%E4%BA%8B%E9%A0%85%E3%81%AE%E4%BE%8B.png?raw=true" width="60%"> 
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%204-4.png?raw=true" width="60%"> 
  
 **Table 4-5 Examples of documents related to standard**
 
-  <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%204-5%20%E6%A8%99%E6%BA%96%E4%BB%95%E6%A7%98%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E4%BE%8B.png?raw=true" width="60%"> 
+  <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%204-5.png?raw=true" width="60%"> 
  
 <a  id="anchor4.4"></a>
 <a  href="#anchor4.4"></a>
@@ -664,25 +664,25 @@ As explained in 2.2, the Digital Twin will be realized by 2030 by focusing on 9 
 
 Table 4-6 displays the areas selected in the "Smart Tokyo Implementation Strategy" for prior implementation for the realization of Smart Tokyo.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%204-5%20%E3%82%A8%E3%83%AA%E3%82%A2%E5%B1%95%E9%96%8B%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%204-5.png?raw=true" width="60%">
  
 **Figure 4-5 Image of are development**
 
 **Table 4-6 Preliminary implementation areas for Smart Tokyo Realization**
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%204-6%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E6%9D%B1%E4%BA%AC%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%85%88%E8%A1%8C%E5%AE%9F%E6%96%BD%E3%82%A8%E3%83%AA%E3%82%A2.png?raw=true" width="60%"> 
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%204-6.png?raw=true" width="60%"> 
  
 ****▼In selection of the area, the regional characteristics of Tokyo and the location strategy, etc. are considered.****
 
 The areas where initiatives will be expanded to each region of Tokyo are classified into the four categories defined in the "Grand Design for Urban Development," namely, "Central Reginal Hub Area," "New Urban Life Creation Area," "Tama Regional Hub Area," and "Natural Environment Symbiosis Area," taking into consideration the regional characteristics of Tokyo and the strategy of the centers. As shown in Figure 4-6, based on these four categories, we aim to expand from the areas where Smart Tokyo is implemented first to each cluster of centers with a view to creating new value through the formation and development of centers that utilize the individuality and potential of the region, based on the future vision of urban development. Table 4-7 shows the strategies for each of the hubs referred to when defining the area classifications.
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%204-6%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E6%A8%AA%E5%B1%95%E9%96%8B%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%204-6.png?raw=true" width="60%">
  
 **Figure 4-6 Image of horizontal development of Digital Twin**
 
 **Table 4-7 Location strategy**
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%204-7%20%E6%8B%A0%E7%82%B9%E6%88%A6%E7%95%A5.png?raw=true" width="60%"> 
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%204-7.png?raw=true" width="60%"> 
  
 
 ****▼Develop the project from the leading areas with an eye on the regional classification of the "Grand Design for Urban Development".****
@@ -707,7 +707,7 @@ Regarding the cost burden, it is basic that the entity responsible for the devel
 
 As shown in Figure 5-1, the maintenance and operation of data, systems, and infrastructure, which are the basic elements of the Digital Twin, will be shared between the TMG and entities outside the Agency. Note that "security" will be shared by each entity in charge of maintenance and operation of data, systems, and infrastructure based on the security requirements shown in 3.5. The "strategy" that defines the components of the digital twin, and the "rules and systems" and "service models" that serve as ancillary elements will be studied under the initiative of the Tokyo Metropolitan Government.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%205-1%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%B4%E5%82%99%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%AE%E5%BD%B9%E5%89%B2%E5%88%86%E6%8B%85.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%205-1.png?raw=true" width="60%">
  
 **Figure 5-1 Division of roles in the development of Digital Twin**
 
@@ -717,7 +717,7 @@ As shown in Figure 5-1, the maintenance and operation of data, systems, and infr
 
 As shown in Figure 5-2, the Digital Twin will be operated in an integrated manner, and each role are shared by both internal and external entities in accordance with the policy set by the infrastructure operator.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%205-2%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E9%81%8B%E7%94%A8%E3%83%95%E3%83%AD%E3%83%BC.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%205-2.png?raw=true" width="60%">
  
 **Figure 5-2 Operation flow of Digital Twin**
 
@@ -729,7 +729,7 @@ The data ecosystem concept is illustrated in Figure 5-3. The data provider is re
 
 Specific details of the operation rules will be reviewed and updated based on the knowledge and issues obtained through the construction of the infrastructure and various projects in the future.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%205-3%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.png?raw=true" width="60%">
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%205-3.png?raw=true" width="60%">
  
 **Figure 5-3 Data Ecosystem of Digital Twin**
 
@@ -745,7 +745,7 @@ Specific details of the operation rules will be reviewed and updated based on th
 
 As shown in Figure 6-1, the cost of developing the digital twin will be estimated by defining the scope and content of the data, systems, and infrastructure that make up the digital twin, based on the digital twin measures and use cases in the nine fields. In the estimation, the target areas of services and the timing of service-in for each field should be taken into account, and if technological progress is expected in the future, the possibility of future cost reduction shall also be mentioned, after clearly stating that this estimation is based on the current level of technology.
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%206-1%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%B4%E5%82%99%E8%B2%BB%E7%94%A8%E3%81%AE%E8%A9%A6%E7%AE%97%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%206-1.png?raw=true" width="60%">
  
 **Figure 6-1 Image of estimating cost of Digital Twin Development**
 
@@ -756,12 +756,14 @@ As listed in Table 6-1, cost items and the point in time when costs are incurred
  
 **Table 6-1 Example of cost items setup**
  
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%206-1%20%E8%B2%BB%E7%94%A8%E9%A0%85%E7%9B%AE%E3%81%AE%E8%A8%AD%E5%AE%9A%E4%BE%8B.png?raw=true" width="60%"> <br>
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%206-1.png?raw=true" width="60%"> <br>
 *This is an example of maintenance for the purpose of illustrating the cost-effectiveness estimation method and does not assume a specific use case. The items to be estimated vary depending on the field and use case.<br>
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%206-2%20%E8%B2%BB%E7%94%A8%E3%81%AE%E8%A9%A6%E7%AE%97%E4%BE%8B.png?raw=true" width="60%"><br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%206-2.png?raw=true" width="60%"><br>
  *When costs and benefits are recorded as a monetary value at the time of development, it is necessary to convert the costs to a present value (discounted future costs and effects using the social discount rate).<br>
+ 
 **Figure 6-2 Example of cost estimation**
+
 
 <a  id="anchor6.2"></a>
 <a  href="#anchor6.2"></a>
@@ -785,13 +787,13 @@ For example, the "Digital Twin Toolkit: Developing the business case for your di
 
 Figure 6-3 shows the items and proposed estimation method (i.e. proposed framework for effect estimation) for estimating the effect of the digital twin development, with reference to the above five items and consideration of the consistency with Tokyo's top-level measures such as decarbonization, disaster prevention, and productivity improvement, as well as the purpose of Tokyo's digital twin ("improving the quality of life of Tokyo residents" and "improving the QOS of Tokyo's administration"). Figure 6-4 shows the proposed items and estimation method (i.e. proposed framework for effect estimation). This framework will be revised if needed during the discussion about use cases of the digital twin with each bureau and field.
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%206-3%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%B4%E5%82%99%E5%8A%B9%E6%9E%9C%E3%81%AE%E8%A9%A6%E7%AE%97%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%206-3.png?raw=true" width="60%">
  
 **Figure 6-3 Framework for estimating the effects of Digital Twin Development**
 
 We will set up digital twin services in each field and categorize each effect item into the five items mentioned above to estimate the effect of the development(Figure 6-4).
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%206-4%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%B4%E5%82%99%E5%8A%B9%E6%9E%9C%E3%81%AE%E8%A9%A6%E7%AE%97.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%206-4.png?raw=true" width="60%">
  
 **Figure 6-4 Estimation of the effect of Digital Twin Development**
 
@@ -801,13 +803,13 @@ As shown in Table 6-2, about the setting of effect items for the development of 
 
 **Table 6-2 Example of effect item setup**
  
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8%206-2%20%E5%8A%B9%E6%9E%9C%E9%A0%85%E7%9B%AE%E3%81%AE%E8%A8%AD%E5%AE%9A%E4%BE%8B.png?raw=true" width="60%"> <br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Table%206-2.png?raw=true" width="60%"> <br>
 *The effects that occur in the event of a disaster are organized separately from the constant effects.<br>
 **This table is organized using one use case in the field of disaster prevention as an example. The items vary depending on the field or use case to be estimated.<br>
 
 On estimating, each effect item should be calculated separately as illustrated in Figure 6-5. If adding up the effects, it is necessary to take care to add up only those items which show the effects at same time.
 
-<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%206-5%20%E5%8A%B9%E6%9E%9C%E3%81%AE%E8%A9%A6%E7%AE%97%E4%BE%8B.png?raw=true" width="60%"><br>
+<img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%206-5.png?raw=true" width="60%"><br>
  *The information is based on an example use case in the field of disaster prevention for the purpose of explaining the method of estimating cost-effectiveness. The contents may differ from those of actual use cases to be considered and implemented.<br>
 **Figure 6-5 Example of effect estimation**
 
@@ -821,7 +823,7 @@ The estimated costs and effects can be expressed as a time series or a period to
 
 **The effects of a major disaster are not expressed as a time series, but rather as additional effects that may occur during the total period of the disaster, since the occurrence and the time of occurrence are uncertain.
 
- <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E5%9B%B3%206-6%20%E8%B2%BB%E7%94%A8%E5%AF%BE%E5%8A%B9%E6%9E%9C%E3%81%AE%E8%A1%A8%E7%8F%BE%E4%BE%8B.png?raw=true" width="60%">
+ <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Figure%206-6.png?raw=true" width="60%">
  
 **Figure 6-6 Example of cost – effectiveness expressions**
 
@@ -839,7 +841,7 @@ As a prospect of our project, with receiving opinions from experts in various fi
 <a  href="anchorReference Glossary"></a>
 ###  Reference Glossary
 
-  <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8_%E5%8F%82%E8%80%83%E7%94%A8%E8%AA%9E%E9%9B%86.png?raw=true" width="60%">
+  <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/Reference%20Glossary.png?raw=true" width="60%">
 
 <a  id="anchorReferences"></a>
 <a  href="anchorReferences"></a>
@@ -847,7 +849,7 @@ As a prospect of our project, with receiving opinions from experts in various fi
 
 The following is an overview of the literature consulted in preparing this roadmap.
 
-  <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images/%E8%A1%A8_%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE.png?raw=true" width="60%">
+  <img src="https://github.com/tokyo-digitaltwin/roadmap_v1.0/blob/images_english/References.png?raw=true" width="60%">
 
 1. Smart City Reference Architecture White Paper
 
