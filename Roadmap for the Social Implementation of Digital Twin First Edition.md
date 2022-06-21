@@ -256,8 +256,6 @@ In addition, the "Smart Tokyo Implementation Strategy" released in February 2020
 
 In the "Future Tokyo" Strategy released in March 2021, "Strategy 10: Smart Tokyo/TOKYO Data Highway Strategy" was set forth as one of the 20+1 "strategies" to be addressed toward 2030, and it is expected that by 2030, real-time data will be available in all fields and will be used for decision-making and policy-making. The strategy calls for the "realization of a complete digital twin" where real-time data can be utilized in all fields for decision-making and policy-making by 2030. 
 
-さらに、2022年2月公表した「『未来の東京』戦略 version up 2022」においては、デジタルツインの実現に向けた基盤整備を加速するとして、「デジタルツインの基礎となる3D地形データを都内全域で整備」「防災分野での先行的活用」「東京データプラットフォームの本格運用に向けた取組を推進」を掲げている。
-
 <a  id="anchor2"></a>
 <a  href="#anchor2"></a>
 ### 2. Our goal through Digital Twin
